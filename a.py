@@ -1,2 +1,3 @@
 class ShoppingCart:
-    pass
+    def __init__(self):
+        self.items = []
